@@ -18,4 +18,4 @@ The model gave us an Accuracy of 0.77. Since the target variable and its data is
 
 ### 5. Submission and conclusion
 
-To go deeper and explore further, one could try to stack various Random forests in addition to try another tree-based algorithm such as XGBoost which is based upon boosting sampling and not bootstrap as the Random Forest classifier. The final predictions are stored in the final_results csv.
+To go deeper and explore further, one could try to stack various Random forests in addition to try another tree-based algorithm such as XGBoost which is based upon boosting sampling and not bootstrap as the Random Forest classifier. The final predictions are stored in the results.csv and predictions.json files.
