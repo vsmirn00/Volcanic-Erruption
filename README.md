@@ -1,1 +1,1 @@
-# Volcanic-Erruption
+# Volcanic-Eruption
